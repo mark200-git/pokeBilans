@@ -1,2 +1,2 @@
 # pokeBilans
-It's collect statistics game 
+It's collect statistics from game 
